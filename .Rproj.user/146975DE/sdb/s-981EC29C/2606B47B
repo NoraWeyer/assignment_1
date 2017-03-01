@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Assignment_1\"\nauthor: \"Nora\"\ndate: \"1 March 2017\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE,\n                      warning=FALSE,\n                      message=FALSE,\n                      cache=FALSE,\n                      fig.path='./figures/',\n                      fig.width=8,\n                      fig.height=8,\n                      fig.align=\"center\")\n```\n\n## R Markdown\n\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.\n\nWhen you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\n```{r cars, include=FALSE}\nsummary(cars)\n```\n\n## Including Plots\n\nYou can also embed plots, for example:\n\n```{r pressure, echo=FALSE}\nplot(pressure)\n```\n\nNote that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.",
+    "created" : 1488399429380.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3939272006",
+    "id" : "2606B47B",
+    "lastKnownWriteTime" : 1488403118,
+    "last_content_update" : 1488403118542,
+    "path" : "C:/Users/Wits user/Desktop/assignment_1/assignment_1.Rmd",
+    "project_path" : "assignment_1.Rmd",
+    "properties" : {
+        "last_setup_crc32" : "A27E6E063370c2d4",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

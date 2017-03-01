@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"README\"\nauthor: \"Nora\"\ndate: \"1 March 2017\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n##Assignment 1\n        \n**PHSL4005 Introduction to Biostatistics**\n        \nThis repository contains files for the first assignment of the course.\n        \nYou can find the _**gitHub Pages**_ for the course at the following [site](https://kamermanpr.github.io/PHSL4005-introductory-biostats.git).\n",
+    "created" : 1488403528923.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1225651601",
+    "id" : "65E1FD16",
+    "lastKnownWriteTime" : 1488403843,
+    "last_content_update" : 1488403843842,
+    "path" : "C:/Users/Wits user/Desktop/assignment_1/Readme_test.Rmd",
+    "project_path" : "Readme_test.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

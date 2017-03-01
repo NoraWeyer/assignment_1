@@ -1,0 +1,12 @@
+"0","knitr::opts_chunk$set(echo = TRUE,
+                      warning=FALSE,
+                      message=FALSE,
+                      cache=FALSE,
+                      fig.path='./figures/',
+                      fig.width=8,
+                      fig.height=8,
+                      fig.align=""center"",)
+"
+"2","Error in knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE,  : 
+  argument is missing, with no default
+"
