@@ -1,0 +1,80 @@
+---
+title: "README"
+author: "Nora"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      warning=FALSE,
+                      message=FALSE,
+                      cache=FALSE,
+                      fig.path='./figures/',
+                      fig.width=8,
+                      fig.height=8,
+                      fig.align="center")
+```
+
+**PHSL4005 Introduction to Biostatistics**
+
+***
+***
+This repository contains files for the first assignment of the course.
+        
+You can find the _**gitHub Pages**_ for the course at the following [site](https://kamermanpr.github.io/PHSL4005-introductory-biostats.git).
+
+***
+***
+
+## Assignment 1.1
+
+## Hello Octocat  
+
+I love Octocat. She's the coolest cat in town.
+
+![](https://dl.dropboxusercontent.com/u/11805474/painblogr/biostats/assignments/octocat.png)
+
+***
+***
+
+## Assignment 1.2
+
+### R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars, include=FALSE}
+summary(cars)
+```
+
+### Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=TRUE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+***
+***
+
+## Assignment 2
+
+### R dataset: anscombe
+
+```{r quick_look, echo=TRUE, message=FALSE, warning=FALSE}
+data(anscombe)
+dim(anscombe)
+names(anscombe)
+head(anscombe, n=6)
+tail(anscombe, n=6)
+summary(anscombe)
+
+```
+
+
+***
+***
