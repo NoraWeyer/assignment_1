@@ -1,6 +1,10 @@
 ---
 title: "README"
 author: "Nora"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -31,7 +35,8 @@ You can find the _**gitHub Pages**_ for the course at the following [site](https
 
 I love Octocat. She's the coolest cat in town.
 
-![](https://dl.dropboxusercontent.com/u/11805474/painblogr/biostats/assignments/octocat.png)
+![Octobercat](figures/oktobercat.png)
+
 
 ***
 ***
